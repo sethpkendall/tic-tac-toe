@@ -1,0 +1,56 @@
+.grid{
+  height: 250px;
+}
+
+#a1 {
+  border-bottom: solid black 10px;
+  border-right: solid black 10px;
+}
+#a2 {
+  border-left: solid black 10px;
+  border-bottom: solid black 10px;
+  border-right: solid black 10px;
+}
+#a3 {
+  border-left: solid black 10px;
+  border-bottom: solid black 10px;
+}
+#b1 {
+  border-bottom: solid black 10px;
+  border-top: solid black 10px;
+  border-right: solid black 10px;
+}
+#b2 {
+  border: solid black 10px;
+}
+#b3 {
+  border-bottom: solid black 10px;
+  border-top: solid black 10px;
+  border-left: solid black 10px;
+}
+#c1 {
+  border-top: solid black 10px;
+  border-right: solid black 10px;
+}
+#c2 {
+  border-left: solid black 10px;
+  border-top: solid black 10px;
+  border-right: solid black 10px;
+}
+#c3 {
+  border-left: solid black 10px;
+  border-top: solid black 10px;
+}
+#hidden {
+  display: none;
+}
+#hidden2 {
+  display: none;
+}
+#hidden3 {
+  display: none;
+}
+#title {
+  text-align: center;
+  font-size: 500%;
+}
