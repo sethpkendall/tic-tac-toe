@@ -1,7 +1,8 @@
 .grid{
   height: 250px;
+  text-align: center;
+  padding-top: 40px;
 }
-
 #a1 {
   border-bottom: solid black 5px;
   border-right: solid black 5px;
@@ -45,12 +46,52 @@
   text-align: center;
   font-size: 500%;
 }
-.1 {
-  background-color: red;
-}
-.x {
+#x1 {
   display: none;
 }
-.o {
+#o1 {
+  display: none;
+}
+#x2 {
+  display: none;
+}
+#o2 {
+  display: none;
+}#x3 {
+  display: none;
+}
+#o3 {
+  display: none;
+}#x4 {
+  display: none;
+}
+#o4 {
+  display: none;
+}#x5 {
+  display: none;
+}
+#o5 {
+  display: none;
+}#x6 {
+  display: none;
+}
+#o6 {
+  display: none;
+}#x7 {
+  display: none;
+}
+#o7 {
+  display: none;
+}
+#x8 {
+  display: none;
+}
+#o8 {
+  display: none;
+}
+#x9 {
+  display: none;
+}
+#o9 {
   display: none;
 }
