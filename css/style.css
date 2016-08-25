@@ -3,54 +3,54 @@
 }
 
 #a1 {
-  border-bottom: solid black 10px;
-  border-right: solid black 10px;
+  border-bottom: solid black 5px;
+  border-right: solid black 5px;
 }
 #a2 {
-  border-left: solid black 10px;
-  border-bottom: solid black 10px;
-  border-right: solid black 10px;
+  border-left: solid black 5px;
+  border-bottom: solid black 5px;
+  border-right: solid black 5px;
 }
 #a3 {
-  border-left: solid black 10px;
-  border-bottom: solid black 10px;
+  border-left: solid black 5px;
+  border-bottom: solid black 5px;
 }
 #b1 {
-  border-bottom: solid black 10px;
-  border-top: solid black 10px;
-  border-right: solid black 10px;
+  border-bottom: solid black 5px;
+  border-top: solid black 5px;
+  border-right: solid black 5px;
 }
 #b2 {
-  border: solid black 10px;
+  border: solid black 5px;
 }
 #b3 {
-  border-bottom: solid black 10px;
-  border-top: solid black 10px;
-  border-left: solid black 10px;
+  border-bottom: solid black 5px;
+  border-top: solid black 5px;
+  border-left: solid black 5px;
 }
 #c1 {
-  border-top: solid black 10px;
-  border-right: solid black 10px;
+  border-top: solid black 5px;
+  border-right: solid black 5px;
 }
 #c2 {
-  border-left: solid black 10px;
-  border-top: solid black 10px;
-  border-right: solid black 10px;
+  border-left: solid black 5px;
+  border-top: solid black 5px;
+  border-right: solid black 5px;
 }
 #c3 {
-  border-left: solid black 10px;
-  border-top: solid black 10px;
-}
-#hidden {
-  display: none;
-}
-#hidden2 {
-  display: none;
-}
-#hidden3 {
-  display: none;
+  border-left: solid black 5px;
+  border-top: solid black 5px;
 }
 #title {
   text-align: center;
   font-size: 500%;
+}
+.1 {
+  background-color: red;
+}
+.x {
+  display: none;
+}
+.o {
+  display: none;
 }

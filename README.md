@@ -16,9 +16,9 @@ _A program that generates a To-Do list from a text input form and then allows fo
    * input:NA
    * output: [blank Tic-Tac-Toe board]
 
-* _Program assigns names to player 1 and 2_
+<!-- * _Program assigns names to player 1 and 2_
    * input: Player enters name
-   * output: it is "name's" turn
+   * output: it is "name's" turn -->
 
 * _Program places X or O on grid depending on player turn and where it is clicked_
    * input: Player 1 clicks for the first move of the game.
