@@ -1,24 +1,19 @@
-# _Title_
-
-#### _A program that generates a To-Do list, (8.22.2016_
+# _Tic-Tac-Toe_
+###_Epicodus Pair Project , 9.18.2016_
 
 #### By _**By Seth Kendall and Brian Dutz**_
 
 ## Description
-_A program that generates a To-Do list from a text input form and then allows for checkbox completion and DOM removal._
+* This program is a simple Tic-Tac-Toe game.
 
 ## Setup instructions
 * _Clone the repository for the program to your comupters' desktop_
-* _Open the html document in the web browser of your choice_
+* _Open the index.html document in a web browser_
 
-## Specs
+## Specifications
 * _Program generates basic grid_
    * input:NA
    * output: [blank Tic-Tac-Toe board]
-
-<!-- * _Program assigns names to player 1 and 2_
-   * input: Player enters name
-   * output: it is "name's" turn -->
 
 * _Program places X or O on grid depending on player turn and where it is clicked_
    * input: Player 1 clicks for the first move of the game.
@@ -28,8 +23,14 @@ _A program that generates a To-Do list from a text input form and then allows fo
    * input: Player 2 enters third symbol in a row
    * output: Player 2 Wins!
 
-### License
+## Known Bugs
+* Program does not perform input validation and will not prevent a user from expending their turn on a spot that is not available. 
 
-* This program is free for use under the terms of its MIT license.
+## Contact Information
+Contact me at sethpkendall@gmail.com
+
+## Licensing
+
+*This product can be used in accordance with the provisions under its MIT license.*
 
 Copyright (c) 2016 **_Brian Dutz and Seth Kendall_**
